@@ -1,0 +1,12 @@
+C:\Users\Bea\VIsual Studio\source\repos\SevenSegmentButtonDisplay\SevenSegmentButtonDisplay\obj\Debug\SevenSegmentButtonDisplay.vbprojResolveAssemblyReference.cache
+C:\Users\Bea\VIsual Studio\source\repos\SevenSegmentButtonDisplay\SevenSegmentButtonDisplay\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Bea\VIsual Studio\source\repos\SevenSegmentButtonDisplay\SevenSegmentButtonDisplay\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Bea\VIsual Studio\source\repos\SevenSegmentButtonDisplay\SevenSegmentButtonDisplay\obj\Debug\SevenSegmentButtonDisplay.vbproj.GenerateResource.Cache
+C:\Users\Bea\VIsual Studio\source\repos\SevenSegmentButtonDisplay\SevenSegmentButtonDisplay\obj\Debug\SevenSegmentButtonDisplay.vbproj.CoreCompileInputs.cache
+C:\Users\Bea\VIsual Studio\source\repos\SevenSegmentButtonDisplay\SevenSegmentButtonDisplay\bin\Debug\SevenSegmentButtonDisplay.exe.config
+C:\Users\Bea\VIsual Studio\source\repos\SevenSegmentButtonDisplay\SevenSegmentButtonDisplay\bin\Debug\SevenSegmentButtonDisplay.exe
+C:\Users\Bea\VIsual Studio\source\repos\SevenSegmentButtonDisplay\SevenSegmentButtonDisplay\bin\Debug\SevenSegmentButtonDisplay.pdb
+C:\Users\Bea\VIsual Studio\source\repos\SevenSegmentButtonDisplay\SevenSegmentButtonDisplay\bin\Debug\SevenSegmentButtonDisplay.xml
+C:\Users\Bea\VIsual Studio\source\repos\SevenSegmentButtonDisplay\SevenSegmentButtonDisplay\obj\Debug\SevenSegmentButtonDisplay.exe
+C:\Users\Bea\VIsual Studio\source\repos\SevenSegmentButtonDisplay\SevenSegmentButtonDisplay\obj\Debug\SevenSegmentButtonDisplay.xml
+C:\Users\Bea\VIsual Studio\source\repos\SevenSegmentButtonDisplay\SevenSegmentButtonDisplay\obj\Debug\SevenSegmentButtonDisplay.pdb
